@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    overflow: hidden;
+    
+}
+
+.Home{
+    padding-top: 4rem;
+    margin-bottom: 3rem;
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    padding-bottom: 4rem;
+    color: aliceblue;
+}
+
+.lead{
+    color: aliceblue;    
+}
+
+.info-btn{
+    color: rgb(226, 22, 141);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: aliceblue;
+}
+
+.card-image-top{
+    float: right;
+}
+
+h2{
+    color: black;
+}
+
+.image{
+    position: fixed;
+}
+
+#Image{
+    background-color: black;
+}
+
+.band{
+    margin: 150px auto;
+    width: 70%;
+}
+.text-box{
+    color: black;
+}
+
+.text-box h2{
+    font-size: 42px;
+}
+
+.text-box p {
+    font-size: 16px;
+}
+
+.band image{
+    float: left;
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.Image-Bawah{
+    margin-bottom: 4rem;
+}
+
+.row {
+    margin-bottom: 5rem;
+    text-align: center;
+    
+}
+
+.w3-container{
+    text-align: center;
+}
+
+.footer {
+    display: block;
+  }
+
+  .navbar-brand{
+    font-family: Courier;
+    font-weight: bold;
+  }
+
+  .w3-container{
+    margin-bottom: 6rem;
+  }
+
+  .Contoh{
+   align-items: center;
+  }
